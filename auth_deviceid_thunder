@@ -17,6 +17,14 @@
             "device_id": "205abafa9f3c14d0"
         },
         {
+            "Username": "earl4",
+            "device_id": "205abafa9f3c14d0"
+        },
+        {
+            "Username": "earl5",
+            "device_id": "205abafa9f3c14d0"
+        },
+        {
             "Username": "Arnel Bengco Roma",
             "device_id": "2a600c537c24830d"
         },
@@ -75,6 +83,14 @@
         {
             "Username": "Vincent James Amorin",
             "device_id": "a60b9c73e2d921e3"
+        },
+        {
+            "Username": "Reginald Bartiana",
+            "device_id": "2c21c8941a41b07c"
+        },
+        {
+            "Username": "Bryan Mandabon Casuga",
+            "device_id": "a322281d4acd7968"
         }
     ],
     "Version": "2"
