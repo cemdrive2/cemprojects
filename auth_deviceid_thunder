@@ -97,8 +97,12 @@
             "device_id": "c62a0eeb8519ff71"
         },
         {
-            "Username": "Kit Yee",
+            "Username": "Kit Yee TV",
             "device_id": "4c7a02ed3b87fa66"
+        },
+        {
+            "Username": "Kit Yee CP",
+            "device_id": "70df88374ede89c1"
         }
     ],
     "Version": "2"
