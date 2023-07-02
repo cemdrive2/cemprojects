@@ -25,84 +25,88 @@
             "device_id": "205abafa9f3c14d0"
         },
         {
-            "Username": "Arnel Bengco Roma",
+            "Username": "ArnelBengcoRoma",
             "device_id": "2a600c537c24830d"
         },
         {
-            "Username": "Jumarie Ongbico",
+            "Username": "JumarieOngbico",
             "device_id": "d97768edd0608538"
         },
         {
-            "Username": "James Apuen Sarabia",
+            "Username": "JamesApuenSarabia",
             "device_id": "d32e1540bd3ac33a"
         },
         {
-            "Username": "James Apuen Sarabia 2",
+            "Username": "JamesApuenSarabia2",
             "device_id": "9bf0a269212df569"
         },
         {
-            "Username": "Cristian Dave",
+            "Username": "CristianDave",
             "device_id": "eb7836ae546e382d"
         },
         {
-            "Username": "Cristian Dave 2",
+            "Username": "CristianDave2",
             "device_id": "318b6cf88073bc6d"
         },
         {
-            "Username": "Moses Baswel",
+            "Username": "MosesBaswel",
             "device_id": "b8be43988a11adb0"
         },
         {
-            "Username": "Alla Nix",
+            "Username": "AllaNix",
             "device_id": "516bc74b1792a839"
         },
         {
-            "Username": "Jerry Maya",
+            "Username": "JerryMaya",
             "device_id": "bfe5860823e17532"
         },
         {
-            "Username": "Mahlonax Abrenica",
+            "Username": "MahlonaxAbrenica",
             "device_id": "174e9f7457eeac10"
         },
         {
-            "Username": "Herbert Vale",
+            "Username": "HerbertVale",
             "device_id": "8680c20afac2f1fa"
         },
         {
-            "Username": "Herbert Vale 2",
+            "Username": "HerbertVale2",
             "device_id": "8aaa810d2663d3b9"
         },
         {
-            "Username": "Jess Balahadia",
+            "Username": "JessBalahadia",
             "device_id": "d1b96cfcabc20656"
         },
         {
-            "Username": "Jess Balahadia 2",
+            "Username": "JessBalahadia2",
             "device_id": "fe0bee8e0dff0194"
         },
         {
-            "Username": "Vincent James Amorin",
+            "Username": "VincentJamesAmorin",
             "device_id": "a60b9c73e2d921e3"
         },
         {
-            "Username": "Reginald Bartiana",
+            "Username": "ReginaldBartiana",
             "device_id": "2c21c8941a41b07c"
         },
         {
-            "Username": "Bryan Mandabon Casuga",
+            "Username": "BryanMandabonCasuga",
             "device_id": "a322281d4acd7968"
         },
         {
-            "Username": "Jids Hipitulan",
+            "Username": "JidsHipitulan",
             "device_id": "c62a0eeb8519ff71"
         },
         {
-            "Username": "Kit Yee TV",
+            "Username": "KitYeeTV",
             "device_id": "4c7a02ed3b87fa66"
         },
         {
-            "Username": "Kit Yee CP",
+            "Username": "KitYeeCP",
             "device_id": "70df88374ede89c1"
+        },
+        {
+            "Username": "KlausMikaelson",
+            "device_id": "984fde3bb286ea76"
         }
     ],
     "Version": "2"
