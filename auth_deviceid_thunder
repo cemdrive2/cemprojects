@@ -95,6 +95,10 @@
         {
             "Username": "Jids Hipitulan",
             "device_id": "c62a0eeb8519ff71"
+        },
+        {
+            "Username": "Mahlonax testonly",
+            "device_id": "d051407d1de8f312"
         }
     ],
     "Version": "2"
