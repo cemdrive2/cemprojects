@@ -29,8 +29,12 @@
             "device_id": "2e41cd19a3c06fda"
         },
         {
-            "Username": "ArnelBengcoRomaCP",
+            "Username": "ArnelRomaCP",
             "device_id": "2a600c537c24830d"
+        },
+        {
+            "Username": "ArnelRomaCP2",
+            "device_id": "9f58aae61c11e971"
         },
         {
             "Username": "JumarieOngbicoCP",
@@ -67,6 +71,10 @@
         {
             "Username": "JerryMayaCP",
             "device_id": "bfe5860823e17532"
+        },
+        {
+            "Username": "JerryMayaTV",
+            "device_id": "2c934eb49aecbb38"
         },
         {
             "Username": "HerbertValeCP",
@@ -125,8 +133,16 @@
             "device_id": "984fde3bb286ea76"
         },
         {
+            "Username": "KlausMikaelsonCP2",
+            "device_id": "00a4cd8facbc23ec"
+        },
+        {
             "Username": "KlausMikaelsonTV",
             "device_id": "81ec392943989ca5"
+        },
+        {
+            "Username": "KlausMikaelsonTV2",
+            "device_id": "91178d7a493fc489"
         },
         {
             "Username": "NashDeGuzmanCP",
