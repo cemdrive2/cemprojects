@@ -243,6 +243,14 @@
         {
             "Username": "ChoiElamparoTV",
             "device_id": "65431a435d1bd8fb"
+        },
+        {
+            "Username": "RanLimCP",
+            "device_id": "c56f4c88caba7ed0"
+        },
+        {
+            "Username": "LesterMatthewLimCP",
+            "device_id": "946dbba23821d34d"
         }
     ],
     "Version": "2"
