@@ -263,6 +263,10 @@
         {
             "Username": "CesarEnriquezCP",
             "device_id": "2723ac829154bf70"
+        },
+        {
+            "Username": "HuaweiTablet",
+            "device_id": "c22d93652ca763d3"
         }
     ],
     "Version": "2"
