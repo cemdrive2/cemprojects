@@ -275,6 +275,10 @@
         {
             "Username": "YorzCP",
             "device_id": "5d907ade0fdb93b8"
+        },
+        {
+            "Username": "YorzTV",
+            "device_id": "a72c5a563121b039"
         }
     ],
     "Version": "2"
