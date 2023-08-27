@@ -265,6 +265,10 @@
             "device_id": "2723ac829154bf70"
         },
         {
+            "Username": "CesarEnriquezTV",
+            "device_id": "d9f51963ee0e3829"
+        },
+        {
             "Username": "HuaweiTablet",
             "device_id": "c22d93652ca763d3"
         },
@@ -279,6 +283,10 @@
         {
             "Username": "YorzTV",
             "device_id": "a72c5a563121b039"
+        },
+        {
+            "Username": EmilCabanisas",
+            "device_id": "f1c8bf486b1e2ba1"
         }
     ],
     "Version": "2"
