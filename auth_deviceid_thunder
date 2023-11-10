@@ -383,6 +383,14 @@
         {
             "Username": "RobIloctoCP",
             "device_id": "cf900fa97e5c524b"
+        },
+        {
+            "Username": "DennisBustamanteCP",
+            "device_id": "4a3b2acc5bca446c"
+        },
+        {
+            "Username": "DaniloJuicoCP",
+            "device_id": "12dd82833f6a15b0"
         }
     ],
     "Version": "2"
