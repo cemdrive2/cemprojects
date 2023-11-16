@@ -173,7 +173,7 @@
             "device_id": "59dbd87c7ac29fad"
         },
         {
-            "Username": "WendelAranezCP",
+            "Username": "WendelRArañezCP",
             "device_id": "6b16d9a0b3e81ca7"
         },
         {
@@ -373,7 +373,7 @@
             "device_id": "b0aa8004129ff9f2"
         },
         {
-            "Username": "WendelRArañezCP",
+            "Username": "WendelRArañezCP2",
             "device_id": "b1de3128ec7eb670"
         },
         {
@@ -407,6 +407,22 @@
         {
             "Username": "LesterDalligosTV",
             "device_id": "ba19e3145b57a597"
+        },
+        {
+            "Username": "JohnPaulDeVeraCP",
+            "device_id": "ecf4b6dc8da1fd56"
+        },
+        {
+            "Username": "WendelRArañezCP3",
+            "device_id": "94720ed6bfddf64b"
+        },
+        {
+            "Username": "CarmeloGUpodCP",
+            "device_id": "78fd6dbd9db57ef7"
+        },
+        {
+            "Username": "MarZeeCP",
+            "device_id": "0a090215e6552771"
         }
     ],
     "Version": "2"
