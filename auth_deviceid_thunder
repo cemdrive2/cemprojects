@@ -431,6 +431,22 @@
         {
             "Username": "AmorADeeTV",
             "device_id": "6cc70ab734d74d01"
+        },
+        {
+            "Username": "LimuelCarandangCP",
+            "device_id": "5f32d24b10a3d6c9"
+        },
+        {
+            "Username": "NadCabrigasCP",
+            "device_id": "2ccedc0b5eb7b6f5"
+        },
+        {
+            "Username": "KitYeeTAB",
+            "device_id": "62e8910251fdb996"
+        },
+        {
+            "Username": "JohnPaulDeVeraCP",
+            "device_id": "5fa16cce192a22ac"
         }
     ],
     "Version": "2"
