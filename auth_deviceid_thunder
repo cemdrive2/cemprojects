@@ -451,6 +451,22 @@
         {
             "Username": "DannyJuicoCP",
             "device_id": "1206f4227bea18ef"
+        },
+        {
+            "Username": "AchotoEhPC",
+            "device_id": "f05dfac09006d0cd"
+        },
+        {
+            "Username": "EngradrianTrovelaCP",
+            "device_id": "702ae13399be7488"
+        },
+        {
+            "Username": "AnthonyEdangalCP",
+            "device_id": "7a608ede388226a9"
+        },
+        {
+            "Username": "NadCabrigasCP2",
+            "device_id": "48aa4ed911834818"
         }
     ],
     "Version": "2"
